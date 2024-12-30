@@ -1,6 +1,6 @@
 ![logo](https://github.com/Noman-Mehmood/Noman-Mehmood/blob/main/Github%20banner/Black%20and%20White%20Modern%20Simple%20Elegant%20Professional%20Digital%20Marketing%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Noman Mehmood</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right"  alt="codding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman-mehmood&label=Profile%20views&color=0e75b6&style=flat" alt="noman-mehmood" /> </p>
