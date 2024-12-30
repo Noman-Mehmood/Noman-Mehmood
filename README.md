@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js and some libraries of Js like GSAP and Three.js**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on: Fullstack projects**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on: Frontend projects for now**
 
 - 🤝 I’m looking for help with **🌱 I’m currently learning: React.js.**
 
